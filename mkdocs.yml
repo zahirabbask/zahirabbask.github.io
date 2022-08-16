@@ -1,8 +1,0 @@
-site_name: My Docs
-site_url: https://zahirabbask.github.io/
-theme:
-  name: mkdocs
-  nav_style: dark
-nav:
-    - Home: index.md
-    - Article: article.md
