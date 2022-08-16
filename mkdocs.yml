@@ -6,15 +6,3 @@ theme:
 nav:
     - Home: index.md
     - Article: article.md
-    - 'Subject1':
-    - 'dir/file1.md'
-    - 'dir/file2.md'
-    - 'Subject2':
-    - 'NestedSubject2_1':
-      - 'dir/file1.md'
-      - 'dir/file2.md'
-    - 'NestedSubject2_2':
-      - 'dir/file.md'
-      - 'dir/file2.md'
-      - 'dir/file3.md'
-      - 'dir/file4.md'
